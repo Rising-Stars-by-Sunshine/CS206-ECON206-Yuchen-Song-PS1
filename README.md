@@ -26,12 +26,12 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### Model
 - Game Environment
+The Turst Game is an experiment of choice to study trust in economic interaction. In my customized version of the game there are two anonymously paired players, A and B, and there are two rounds. The game start with player A, who is given 1000$, and must decide to send none or some quantity of money to the second player. Money left in player A's account has 2% interest. Then player B recieves 3 times the money sent by A, and must decide to send none or some quantity of money back to A. Simillarly, money left in B's account has 5% interest. Before the second round if A's amount of money is larger or equal to B's amount, then two players will change the role, which means player A in the first round will be player B in the second round. In the second round, the rule is same as the one in the first round. The goal of the customized Trust Game is to show that trust is an economic primitive. 
 - Solution Concept
 - Evaluations: e.g. efficiency and fairness
 
 ### Code
 - Game Environment
-The Turst Game is an experiment of choice to study trust in economic interaction. In the game there are two players, A and B, that are anonymously paired. The game start with player A, who is given $100, and must decide to send none or some quantity of money to the second player. 
 - Strategic plays
 - Equilibruim Evaluations: e.g. belief, strategy, and payoffs
 - oTree Experimental Code 
