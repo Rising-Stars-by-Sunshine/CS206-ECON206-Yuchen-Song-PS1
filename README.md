@@ -31,6 +31,7 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### Code
 - Game Environment
+The Turst Game is an experiment of choice to study trust in economic interaction. In the game there are two players, A and B, that are anonymously paired. The game start with player A, who is given $100, and must decide to send none or some quantity of money to the second player. 
 - Strategic plays
 - Equilibruim Evaluations: e.g. belief, strategy, and payoffs
 - oTree Experimental Code 
