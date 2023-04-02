@@ -39,7 +39,21 @@ Possible strategies for the Player who starts with B:
 2.	Control the game: If Player B wants to control the game, in the first round, he can calculate and give Player A small amounts of money back to Player A, so that the roles in the second round cannot be changed.
 3.	Risk minimization: In the first round, Player B can choose to keep all his money and pay nothing in the second round as Player A, then he is sure to win.
 4.	Reciprocity: In the first round, make both players gain a similar amount of money and successfully switch roles in the second round.
+
+Payoff:
+
+Based on the different strategies of the two players, the payoffs are as follows: 
+
+1.	Win-win situation: If both players trust each other, Player A will receive $500 for both rounds, and both players will gain the maximum money.
+2.	Reciprocity but not maximization: If two players build trust by giving money that equalizes the benefits of both, their payoffs will be very similar, which is a number between 102 and 500. However, because they don't give all their money, the total payoff will not be maximized.
+3.	None of them choose to cooperate. They will give nothing, and eventually, both will gain $102.
+4.	The player that starts with B wants to control the game. In Trust Game, player B has more chance to gain more money than player A. So, one player may want to be player B in both rounds.
+5.	One of the players decides not to cooperate or reciprocate. If the player starts with A, then he will keep $100, and gain $102 in the first round. Then in the second round, it will play as B, and it will gain 0 to 106 dollars, based on the money that Player A sends to his. If the player starts with B, then he will gain 1.06 times the money sent by A in the first round and gain $102 in the second round.
+
+
 - Solution Concept
+
+
 - Evaluations: e.g. efficiency and fairness
 
 ### Code
