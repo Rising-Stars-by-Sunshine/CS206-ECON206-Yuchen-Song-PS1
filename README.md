@@ -26,6 +26,7 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### Model
 - Game Environment
+
 Game Environment the Trust Game is an experiment of choice to study trust in economic interaction. In my customized version of the game, there are two anonymously paired players, A and B, and there are two rounds. The game starts with player A, who is given 1000$ and must decide to send none or some quantity of money to the second player. Money left in player A's account has 2% interest. Then player B receives 3 times the money sent by A and must decide to send none or some quantity of money back to A. Similarly, money left in B's account has 5% interest. Before the second round if A's amount of money is larger or equal to B's amount, then two players will change their roles, which means player A in the first round will be player B in the second round. In the second round, the rule is the same as the one in the first round. 
 
 Possible strategies for the Player who starts with A:
