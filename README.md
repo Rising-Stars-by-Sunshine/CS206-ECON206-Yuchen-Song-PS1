@@ -31,6 +31,7 @@ Possible strategies for the Player who starts with A:
 1.	Cooperation: If Player A chooses to trust Player B and give B all the money, then it is possible to maximize the benefit, because according to the rules of the game, Player A gets $500 in both rounds, meaning that both players get $500. But if B doesn't cooperate to maximize benefits, then player A may get less money in the first round or get a little bit more money but lose the opportunity to switch roles in the second round.
 2.	Risk aversion: Player A can choose not to give player B any money to get more profit in the first round. This may cause another player also gives nothing in the second round, which is a lose-lose situation.
 3.	Reciprocity: The player may choose to give a portion of the money to balance the benefits of both players, which may build trust. And it’s possible that in the second round, another player may continue to play the same strategy, resulting in a similar payoff for both players.
+
 Possible strategies for the Player who starts with B:
 1.	Maximizing profits: Player B chooses to give back all the money to Player A in the first round to build trust. In this way, the greatest profit is likely to be made in the second round. 
 2.	Control the game: If Player B wants to control the game, in the first round, he can calculate and give Player A small amounts of money back to Player A, so that the roles in the second round cannot be changed.
