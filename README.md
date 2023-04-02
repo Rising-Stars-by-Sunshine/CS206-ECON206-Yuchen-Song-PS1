@@ -54,8 +54,10 @@ Based on the different strategies of the two players, the payoffs are as follows
 - Solution Concept
 
 Based on the backward induction, we can find out solutions for the game. 
+
 In the second round, Player B has the following options to win the game: First, when Player B has more money than player A, Player B can choose to give part or all of his money to Player A so that both players have the same money or almost the same money, which is a reciprocity or maximization benefits situation; B, when B has less money than A, B's total return will be less than A's, whether he pays back A or not; Third, when B has more money than A, B can choose not to give or give less money to A, so that B will have more money than A. 
 Cases 1 and 3 (B has more money than A) may be because, in the second round, Player A chose to trust B and gave him most or all of his money. That's the only possible premise. And this player could be either A or B in the first round. If he is A, then he will choose reciprocity or maximization, giving most or all his money to his opponent, who has violated his trust. If he is B, then his opponent, by calculation, may choose to give him less money, making it impossible for him to get more money at the end of the first round. 
+
 For the second case (B has less money than A), it assumes that A gives B less money in the second round or that A's money at the beginning of the second round is greater than 100 plus B's money. In the first case, the strategy for both players in the first round is the same as in the previous paragraph. In the second case, because A gave B almost nothing in the first round, the difference between the two was about 102.
 
 
