@@ -61,7 +61,15 @@ Cases 1 and 3 (B has more money than A) may be because, in the second round, Pla
 For the second case (B has less money than A), it assumes that A gives B less money in the second round or that A's money at the beginning of the second round is greater than 100 plus B's money. In the first case, the strategy for both players in the first round is the same as in the previous paragraph. In the second case, because A gave B almost nothing in the first round, the difference between the two was about 102.
 
 
-- Evaluations: e.g. efficiency and fairness
+- Evaluations: 
+
+Efficiency:
+The game seems to be designed in a way that encourages players to send money to each other and build trust. The 2% and 5% interest rates provide an incentive for players to keep their money in their account, but the potential gains from receiving money from the other player may encourage them to take a risk and send some money to the other player. This can lead to a positive outcome where both players benefit from the exchange and build trust over time.
+
+Fairness:
+At first glance, the game may seem unfair since player A is the only one who has the initial decision to send money or not, and player B only receives money from player A. However, this is mitigated by the fact that in the second round, the roles are reversed, and player B has the opportunity to send money to player A. Additionally, the fact that players are anonymous and paired randomly ensures that there is no inherent bias or discrimination based on factors such as race, gender, or socioeconomic status.
+
+Overall, the Trust Game seems to be an efficient and fair game that can provide valuable insights into how trust is built in economic interactions.
 
 ### Code
 - Game Environment
