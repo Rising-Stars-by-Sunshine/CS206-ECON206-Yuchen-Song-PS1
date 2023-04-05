@@ -91,7 +91,13 @@ How does behavior in the experiments differ from backward induction?
 
 Backward induction assumes that participants can always make rational decisions under different circumstances during experiments or games. However, in the experiments, participants do not always choose the optimal choice. Specifically, in this paper, researchers find that social history and past interaction are factors influencing participants’ decisions. Overall, behavioral experiments that are designed to emphasize and study some human behavioral characteristics, may be more likely to induce participants’ irrational decisions and the differences between backward induction and real situation are significant.
 
-- Figures
+What is the behavioral (e.g., psychological, social) foundation that underpins the observed behavior?
+
+The first behavioral foundation is reciprocity, which refers to responding to others’ positive actions with another kind and positive action. In the behavioral experiment, the researchers found that participants tend to reciprocate others even though their decision may lead to not reaching the maximum payoff. 
+Another behavioral foundation is that social history and past interactions have impacts on decision-making, even if the past and present situations are different.
+
+
+- Reinforcement learning paper
 
 ### More about the Author
 - headshot
