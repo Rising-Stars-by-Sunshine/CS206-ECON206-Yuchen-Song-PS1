@@ -99,6 +99,17 @@ Another behavioral foundation is that social history and past interactions have 
 
 - Reinforcement learning paper
 
+In the paper, "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem" the authors present a reinforcement learning model to seek a solution to the problem of the portfolio management problem, which is the process of redistributing a fund into different financial products (Jiang, Xu, and Liang 2017). They emphasize the importance of this problem in finance and point out the limitations and disadvantages of some traditional portfolio management methods that cannot show the complexity of markets.
+
+What is the game environment and the learning algorithm?
+
+The game environment is built by trading experiments done in the exchange Poloniex, which is a Digital currency trading platform, where there are about 80 tradable cryptocurrencies. Among them, the authors select 11 top-volumed cryptocurrencies and use the historic trading data of these currencies to train the agent. 
+
+In this paper, the reinforcement learning solution framework uses a deterministic policy gradient algorithm, which is a model-free reinforcement learning algorithm used to train an agent to learn optimal and continuous control policies. Its advantage is that it focuses on deterministic policies, which can be more efficient and makes fewer errors. 
+
+How are the strategies from the reinforcement learning agents inspires you on trust building among humans?
+
+
 ### More about the Author
 - headshot
 - self-introduction
