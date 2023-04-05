@@ -109,6 +109,7 @@ In this paper, the reinforcement learning solution framework uses a deterministi
 
 How are the strategies from the reinforcement learning agents inspires you on trust building among humans?
 
+One important concept in reinforcement learning is exploration and exploitation. During training, the agents must find a balance between exploiting or simulating behaviors that result in high rewards by analyzing precious data and exploring new strategies that may lead to higher rewards. Similarly, in human interaction, building trust is also a process of exploration and exploitation. For instance, using the previous method of interaction can lead to a similar payoff as previous times. However, to enhance the trust or keep the relationship, new methods must be explored to reach better payoffs. Meanwhile, another important concept is setting incentives, which encourage the agent to reach the research goal. In trust building among humans, we can also use a similar reward-setting method. Overall, the methodologies and strategies in training reinforcement learning agents can provide insights into trust building of human interactions.
 
 ### More about the Author
 - headshot
