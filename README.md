@@ -80,9 +80,10 @@ Overall, the Trust Game seems to be an efficient and fair game that can provide 
 
 ### Spotlight
 - Behavioral experimental research
+ 
 The paper on behavioral experimental research is “Trust, Reciprocity, and Social History” by James Berg, John Dickhaut, and Kevin McCabe.
-
-In the paper, the authors design several experiments of trust games, where they have to decide how much to give each other and how much to keep for themselves. By conducting these behavioral experiments, the researchers found that participants have some extent of trust in anonymous counterparts, which verifies that reciprocity is a fundamental element of human behavior. Their second finding is that social history is important in human behavior. In the experiments, participants who have positive previous interactions with others are more likely to trust and reciprocate and those with negative ones are less likely to do so.
+  
+In the paper, the authors design several experiments of trust games, where they have to decide how much to give each other and how much to keep for themselves. By   conducting these behavioral experiments, the researchers found that participants have some extent of trust in anonymous counterparts, which verifies that reciprocity is a fundamental element of human behavior. Their second finding is that social history is important in human behavior. In the experiments, participants who have positive previous interactions with others are more likely to trust and reciprocate and those with negative ones are less likely to do so.
 
 Research question: The author intends to study trust and reciprocity in an investment environment and address the question of how social history (past interaction with others) influences trust and reciprocity in human economic behavior. 
 
