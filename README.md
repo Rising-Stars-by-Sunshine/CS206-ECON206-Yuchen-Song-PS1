@@ -125,7 +125,7 @@ from the behavior playing the oTree demo and why.
 
 - self-introduction
 
-Yuchen Song is a sophomore student majored in Computation and Design with tracks in Computer Science at DKU, who is intereted in the intersection between Computer Science and other subject.
+Yuchen Song is a sophomore student majored in Computation and Design with tracks in Computer Science at DKU, who is intereted in the intersection between Computer Science and other subjects.
 
 ### References
 
