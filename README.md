@@ -126,12 +126,11 @@ from the behavior playing the oTree demo and why.
 
 ### More about the Author
 - headshot
+
 ![image](https://github.com/Rising-Stars-by-Sunshine/CS206-ECON206-Yuchen-Song-PS1/blob/main/spotlight/headshot.jpg)
+
 - self-introduction
-- Final reflections 
-  - intellectual growth
-  - professional growth
-  - living a purposeful life
+
 
 ### References
 
