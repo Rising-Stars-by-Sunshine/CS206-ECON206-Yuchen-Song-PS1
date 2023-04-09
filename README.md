@@ -73,6 +73,7 @@ Cases 1 and 3 (B has more money than A) may be because, in the second round, Pla
 
 ### Code
 - Customized oTree code
+
 - Description on how you customize the demo.
   
   Endowment: In my customized trust game, the endowment is $1000. I think the increase in the amount of money can induce participants not to return the money.
