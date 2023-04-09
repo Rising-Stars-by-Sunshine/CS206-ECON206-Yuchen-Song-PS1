@@ -72,6 +72,7 @@ Cases 1 and 3 (B has more money than A) may be because, in the second round, Pla
   Overall, the Trust Game seems to be an efficient and fair game that can provide valuable insights into how trust is built in economic interactions.
 
 ### Code
+- Customized oTree code
 - Description on how you customize the demo.
   
   Endowment: In my customized trust game, the endowment is $1000. I think the increase in the amount of money can induce participants not to return the money.
