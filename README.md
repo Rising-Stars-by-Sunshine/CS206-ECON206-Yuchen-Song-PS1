@@ -65,6 +65,8 @@ Cases 1 and 3 (B has more money than A) may be because, in the second round, Pla
 
 ### Code
 - Customized oTree code
+   
+   (https://github.com/Rising-Stars-by-Sunshine/CS206-ECON206-Yuchen-Song-PS1/blob/main/code/qpf-new_project.otreezip)
 
 - Description on how you customize the demo.
   
@@ -123,6 +125,7 @@ from the behavior playing the oTree demo and why.
 
 - self-introduction
 
+Yuchen Song is a sophomore student majored in Computation and Design with tracks in Computer Science at DKU, who is intereted in the intersection between Computer Science and other subject.
 
 ### References
 
