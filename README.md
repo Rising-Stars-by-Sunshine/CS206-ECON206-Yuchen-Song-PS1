@@ -83,6 +83,13 @@ Cases 1 and 3 (B has more money than A) may be because, in the second round, Pla
 - Explain how you think subjects’ behavior playing the customized demo might be different 
 from the behavior playing the oTree demo and why.
 
+  1.	Time to make decisions: Since more variables and rules are added to the game, it may take subjects more time for decision-making.
+
+  2.	Give less money: Since the total endowment is raised and interest rates are added, subjects may be more likely to keep the money than give it to the opponent. 
+
+  3.	Develop new strategies: The role exchange rule may make subjects develop new strategies. For Player A in the first round, it can choose to send back some money that ensures the role exchange. While For Player B, it can also choose to avoid role exchange. This can make the setting more complex and make trust-building harder.
+
+
 ### Spotlight
 - Behavioral experimental research
  
