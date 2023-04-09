@@ -73,9 +73,13 @@ Cases 1 and 3 (B has more money than A) may be because, in the second round, Pla
 
 ### Code
 - Description on how you customize the demo.
+  
   Endowment: In my customized trust game, the endowment is $1000. I think the increase in the amount of money can induce participants not to return the money.
+  
   Interest rate: In the new trust game, interest rates are added to induce participants to keep the money. Meanwhile, adding more variables can complicate the situation and increase the amount of thought for participants to make rational thinking harder.
+ 
   Role exchange: In the customized version, the game has two rounds. When the first-round finishes, players have the chance to exchange their roles. Since in the demo, player A is the weak party, for passively receiving multiplied money, the new rule is set, which is exchanging roles when Player A’s money is less or equal to Player B’s money after the first round. However, the new rule cannot fully eliminate the unfairness of the game. Since Player B can send a little bit more money back to exchange his role and gives nothing to the other player in the second round to gain more payoffs. 
+
 - Explain how you think subjects’ behavior playing the customized demo might be different 
 from the behavior playing the oTree demo and why.
 
