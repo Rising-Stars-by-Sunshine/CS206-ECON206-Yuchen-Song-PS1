@@ -127,7 +127,11 @@ from the behavior playing the oTree demo and why.
 
 - Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
+Berg, Joyce, John Dickhaut, and Kevin McCabe. 1995. “Trust, Reciprocity, and Social History.” Games and Economic Behavior 10 (1): 122–42. https://doi.org/10.1006/game.1995.1027.
+
+Jiang, Zhengyao, Dixing Xu, and Jinjun Liang. 2017. “A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem.” ArXiv.org. 2017. https://arxiv.org/abs/1706.10059.
+
+Silver, David, Guy Lever, Nicolas Heess, Thomas Degris, Daan Wierstra, and Martin Riedmiller. 2014. “Deterministic Policy Gradient Algorithms.” Proceedings.mlr.press. PMLR. January 27, 2014. http://proceedings.mlr.press/v32/silver14.html.
 
 ```
 @article{levin2022bridging,
