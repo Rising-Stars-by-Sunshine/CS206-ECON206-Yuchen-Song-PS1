@@ -88,18 +88,17 @@ from the behavior playing the oTree demo and why.
  
   The paper on behavioral experimental research is “Trust, Reciprocity, and Social History” by James Berg, John Dickhaut, and Kevin McCabe.
   
-  In the paper, the authors design several experiments of trust games, where they have to decide how much to give each other and how much to keep for themselves. By   conducting these behavioral experiments, the researchers found that participants have some extent of trust in anonymous counterparts, which verifies that reciprocity is a fundamental element of human behavior. Their second finding is that social history is important in human behavior. In the experiments, participants who have positive previous interactions with others are more likely to trust and reciprocate and those with negative ones are less likely to do so.
+  In the paper, the authors design several experiments of trust games, where they have to decide how much to give each other and how much to keep for themselves. By   conducting these behavioral experiments, the researchers found that participants have some extent of trust in anonymous counterparts, which verifies that reciprocity is a fundamental element of human behavior. Their second finding is that social history is important in human behavior. In the experiments, participants who have positive previous interactions with others are more likely to trust and reciprocate and those with negative ones are less likely to do so (Berg, Dickhaut, and McCabe 1995).
 
   Research question: The author intends to study trust and reciprocity in an investment environment and address the question of how social history (past interaction with others) influences trust and reciprocity in human economic behavior. 
 
   How does behavior in the experiments differ from backward induction?
 
-  Backward induction assumes that participants can always make rational decisions under different circumstances during experiments or games. However, in the experiments, participants do not always choose the optimal choice. Specifically, in this paper, researchers find that social history and past interaction are factors influencing participants’ decisions. Overall, behavioral experiments that are designed to emphasize and study some human behavioral characteristics, may be more likely to induce participants’ irrational decisions and the differences between backward induction and real situation are significant.
+  Backward induction assumes that participants can always make rational decisions under different circumstances during experiments or games. However, in the experiments, participants do not always choose the optimal choice. Specifically, in this paper, researchers find that social history and past interaction are factors influencing participants’ decisions (Berg, Dickhaut, and McCabe 1995). Overall, behavioral experiments that are designed to emphasize and study some human behavioral characteristics, may be more likely to induce participants’ irrational decisions and the differences between backward induction and real situation are significant.
 
   What is the behavioral (e.g., psychological, social) foundation that underpins the observed behavior?
 
-  The first behavioral foundation is reciprocity, which refers to responding to others’ positive actions with another kind and positive action. In the behavioral experiment, the researchers found that participants tend to reciprocate others even though their decision may lead to not reaching the maximum payoff. 
-Another behavioral foundation is that social history and past interactions have impacts on decision-making, even if the past and present situations are different.
+  The first behavioral foundation is reciprocity, which refers to responding to others’ positive actions with another kind and positive action. In the behavioral experiment, the researchers found that participants tend to reciprocate others even though their decision may lead to not reaching the maximum payoff (Berg, Dickhaut, and McCabe 1995). Another behavioral foundation is that social history and past interactions have impacts on decision-making, even if the past and present situations are different.
 
 
 - Reinforcement learning paper
@@ -108,9 +107,9 @@ Another behavioral foundation is that social history and past interactions have 
 
   What is the game environment and the learning algorithm?
 
-  The game environment is built by trading experiments done in the exchange Poloniex, which is a Digital currency trading platform, where there are about 80 tradable cryptocurrencies. Among them, the authors select 11 top-volumed cryptocurrencies and use the historic trading data of these currencies to train the agent. 
+  The game environment is built by trading experiments done in the exchange Poloniex, which is a Digital currency trading platform, where there are about 80 tradable cryptocurrencies. Among them, the authors select 11 top-volumed cryptocurrencies and use the historic trading data of these currencies to train the agent (Jiang, Xu, and Liang 2017). 
 
-  In this paper, the reinforcement learning solution framework uses a deterministic policy gradient algorithm, which is a model-free reinforcement learning algorithm used to train an agent to learn optimal and continuous control policies. Its advantage is that it focuses on deterministic policies, which can be more efficient and makes fewer errors. 
+  In this paper, the reinforcement learning solution framework uses a deterministic policy gradient algorithm, which is a model-free reinforcement learning algorithm used to train an agent to learn optimal and continuous control policies (Silver et al. 2014). Its advantage is that it focuses on deterministic policies, which can be more efficient and makes fewer errors. 
 
   How are the strategies from the reinforcement learning agents inspires you on trust building among humans?
 
