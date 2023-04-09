@@ -142,18 +142,6 @@ Jiang, Zhengyao, Dixing Xu, and Jinjun Liang. 2017. “A Deep Reinforcement Lear
 Silver, David, Guy Lever, Nicolas Heess, Thomas Degris, Daan Wierstra, and Martin Riedmiller. 2014. “Deterministic Policy Gradient Algorithms.” Proceedings.mlr.press. PMLR. January 27, 2014. http://proceedings.mlr.press/v32/silver14.html.
 
 ```
-@article{levin2022bridging,
-  title={Bridging level-k to nash equilibrium},
-  author={Levin, Dan and Zhang, Luyao},
-  journal={Review of Economics and Statistics},
-  volume={104},
-  number={6},
-  pages={1329--1340},
-  year={2022},
-  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
-}
-```
-```
 @article{berg1995trust,
   title={Trust, reciprocity, and social history},
   author={Berg, Joyce and Dickhaut, John and McCabe, Kevin},
