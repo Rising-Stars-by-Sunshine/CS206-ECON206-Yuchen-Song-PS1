@@ -153,4 +153,33 @@ Silver, David, Guy Lever, Nicolas Heess, Thomas Degris, Daan Wierstra, and Marti
   publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
 }
 ```
-
+```
+@article{berg1995trust,
+  title={Trust, reciprocity, and social history},
+  author={Berg, Joyce and Dickhaut, John and McCabe, Kevin},
+  journal={Games and economic behavior},
+  volume={10},
+  number={1},
+  pages={122--142},
+  year={1995},
+  publisher={Elsevier}
+}
+```
+```
+@article{jiang2017deep,
+  title={A deep reinforcement learning framework for the financial portfolio management problem},
+  author={Jiang, Zhengyao and Xu, Dixing and Liang, Jinjun},
+  journal={arXiv preprint arXiv:1706.10059},
+  year={2017}
+}
+```
+```
+@inproceedings{silver2014deterministic,
+  title={Deterministic policy gradient algorithms},
+  author={Silver, David and Lever, Guy and Heess, Nicolas and Degris, Thomas and Wierstra, Daan and Riedmiller, Martin},
+  booktitle={International conference on machine learning},
+  pages={387--395},
+  year={2014},
+  organization={Pmlr}
+}
+```
