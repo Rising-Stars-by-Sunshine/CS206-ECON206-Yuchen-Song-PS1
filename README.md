@@ -19,7 +19,7 @@ Note: please insert the screenshot of the answers to your research question by C
 ### Model
 - Game Environment
 
-  Game Environment the Trust Game is an experiment of choice to study trust in economic interaction. In my customized version of the game, there are two anonymously paired players, A and B, and there are two rounds. The game starts with player A, who is given 1000$ and must decide to send none or some quantity of money to the second player. Money left in player A's account has 2% interest. Then player B receives 3 times the money sent by A and must decide to send none or some quantity of money back to A. Similarly, money left in B's account has 5% interest. Before the second round if A's amount of money is larger or equal to B's amount, then two players will change their roles, which means player A in the first round will be player B in the second round. In the second round, the rule is the same as the one in the first round.
+  The Trust Game is an experiment of choice to study trust in economic interaction (Engle-Warnick and Slonim 2004). In my customized version of the game, there are two anonymously paired players, A and B, and there are two rounds. The game starts with player A, who is given 1000$ and must decide to send none or some quantity of money to the second player. Money left in player A's account has 2% interest. Then player B receives 3 times the money sent by A and must decide to send none or some quantity of money back to A. Similarly, money left in B's account has 5% interest. Before the second round if A's amount of money is larger or equal to B's amount, then two players will change their roles, which means player A in the first round will be player B in the second round. In the second round, the rule is the same as the one in the first round.
   
   ![image](https://github.com/Rising-Stars-by-Sunshine/CS206-ECON206-Yuchen-Song-PS1/blob/main/model/chart.JPG)
   
@@ -49,7 +49,7 @@ Note: please insert the screenshot of the answers to your research question by C
 
 - Solution Concept
 
-  Based on the backward induction, we can find out solutions for the game. 
+  Backward induction is a concept of method that is widely used in game theory and decision analysis to find the optimal decisions in each step under a multi-step decision-making situation (Aumann 1995). When using backward induction, we analyze from the end of a sequential event to find the optimal decision for each step and finally find the optimal strategy for the whole event. Based on the backward induction, we can find out solutions for the game. 
 
   In the second round, Player B has the following options to win the game: First, when Player B has more money than player A, Player B can choose to give part or all of his money to Player A so that both players have the same money or almost the same money, which is a reciprocity or maximization benefits situation; B, when B has less money than A, B's total return will be less than A's, whether he pays back A or not; Third, when B has more money than A, B can choose not to give or give less money to A, so that B will have more money than A. 
 Cases 1 and 3 (B has more money than A) may be because, in the second round, Player A chose to trust B and gave him most or all of his money. That's the only possible premise. And this player could be either A or B in the first round. If he is A, then he will choose reciprocity or maximization, giving most or all his money to his opponent, who has violated his trust. If he is B, then his opponent, by calculation, may choose to give him less money, making it impossible for him to get more money at the end of the first round. 
@@ -169,5 +169,27 @@ Silver, David, Guy Lever, Nicolas Heess, Thomas Degris, Daan Wierstra, and Marti
   pages={387--395},
   year={2014},
   organization={Pmlr}
+}
+```
+@article{engle2004evolution,
+  title={The evolution of strategies in a repeated trust game},
+  author={Engle-Warnick, Jim and Slonim, Robert L},
+  journal={Journal of Economic Behavior \& Organization},
+  volume={55},
+  number={4},
+  pages={553--573},
+  year={2004},
+  publisher={Elsevier}
+}
+```
+@article{aumann1995backward,
+  title={Backward induction and common knowledge of rationality},
+  author={Aumann, Robert J},
+  journal={Games and economic Behavior},
+  volume={8},
+  number={1},
+  pages={6--19},
+  year={1995},
+  publisher={Elsevier}
 }
 ```
