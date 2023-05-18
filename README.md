@@ -1,4 +1,4 @@
-# # Title [Problem Set 1: Trust Game & Game Theory](https://www.nature.com/articles/s41562-021-01152-2)
+# # Problem Set 1: Trust Game & Game Theory
 ## Project information
 - **Author**: Yuchen Song, Comutation and Design with tracks in Computer Science, Class 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
