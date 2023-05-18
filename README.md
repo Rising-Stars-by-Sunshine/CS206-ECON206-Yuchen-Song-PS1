@@ -152,16 +152,12 @@ Silver, David, Guy Lever, Nicolas Heess, Thomas Degris, Daan Wierstra, and Marti
   year={1995},
   publisher={Elsevier}
 }
-```
-```
 @article{jiang2017deep,
   title={A deep reinforcement learning framework for the financial portfolio management problem},
   author={Jiang, Zhengyao and Xu, Dixing and Liang, Jinjun},
   journal={arXiv preprint arXiv:1706.10059},
   year={2017}
 }
-```
-```
 @inproceedings{silver2014deterministic,
   title={Deterministic policy gradient algorithms},
   author={Silver, David and Lever, Guy and Heess, Nicolas and Degris, Thomas and Wierstra, Daan and Riedmiller, Martin},
@@ -170,7 +166,6 @@ Silver, David, Guy Lever, Nicolas Heess, Thomas Degris, Daan Wierstra, and Marti
   year={2014},
   organization={Pmlr}
 }
-```
 @article{engle2004evolution,
   title={The evolution of strategies in a repeated trust game},
   author={Engle-Warnick, Jim and Slonim, Robert L},
@@ -181,7 +176,6 @@ Silver, David, Guy Lever, Nicolas Heess, Thomas Degris, Daan Wierstra, and Marti
   year={2004},
   publisher={Elsevier}
 }
-```
 @article{aumann1995backward,
   title={Backward induction and common knowledge of rationality},
   author={Aumann, Robert J},
