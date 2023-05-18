@@ -125,7 +125,7 @@ from the behavior playing the oTree demo and why.
 ### More about the Author
 - headshot
 
-![image](https://github.com/Rising-Stars-by-Sunshine/CS206-ECON206-Yuchen-Song-PS1/blob/main/spotlight/headshot.jpg)
+![image]([https://github.com/Rising-Stars-by-Sunshine/CS206-ECON206-Yuchen-Song-PS1/blob/main/spotlight/headshot.jpg](https://github.com/Rising-Stars-by-Sunshine/CS206-ECON206-Yuchen-Song-PS1/blob/main/spotlight/headshot%20(1).jpg))
 
 - self-introduction
 
